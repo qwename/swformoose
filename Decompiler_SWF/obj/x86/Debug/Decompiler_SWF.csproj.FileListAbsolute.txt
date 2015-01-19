@@ -1,0 +1,10 @@
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\bin\Debug\Decompiler_SWF.exe.config
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\obj\x86\Debug\Decompiler_SWF.Properties.Resources.resources
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\obj\x86\Debug\Decompiler_SWF.Main.resources
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\bin\Debug\Decompiler_SWF.exe
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\bin\Debug\Decompiler_SWF.pdb
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\obj\x86\Debug\Decompiler_SWF.exe
+C:\Users\Stash\Desktop\c sharp\Decompiler\Swf\Decompiler_SWF\Decompiler_SWF\obj\x86\Debug\Decompiler_SWF.pdb
